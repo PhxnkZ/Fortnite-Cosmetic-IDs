@@ -4,56 +4,9 @@ ID: BoltonPickaxe
 
 Name: Default Pickaxe
 Description: Perfectly unremarkable.
-ID: DefaultPickaxe
 
-Name: Test Pickaxe
-Description: Used for testing pickaxes.
-ID: Dev_Test_Pickaxe
-
-Name: Reaper
 Description: Harvest resources... and souls.
-ID: HalloweenScythe
-
-Name: Lucky
-Description: A sturdy pickaxe with a great attitude.
-ID: HappyPickaxe
-
-Name: Death Valley
-Description: Whenever you need a skull on a stick, the Death Valley Pickaxe is there for you.
-ID: Pickaxe_Deathvalley
-
-Name: Pink Flamingo
-Description: From suburban lawns to the front lines, the Pink Flamingo Pickaxe is always ready for action.
-ID: Pickaxe_Flamingo
-
-Name: Axecalibur
-Description: Stone and anvil not included.
-ID: Pickaxe_ID_011_Medieval
-
-Name: Pulse Axe
-Description: Bleeding edge axe technology.
-ID: Pickaxe_ID_012_District
-
-Name: AC/DC
-Description: Warning: High Voltage!
-ID: Pickaxe_ID_013_Teslacoil
-
-Name: Ice Breaker
-Description: A great way to meet your fellow combatants.
-ID: Pickaxe_ID_014_WinterCamo
-
-Name: Candy Axe
-Description: Deck the walls with festive mayhem!
-ID: Pickaxe_ID_015_HolidayCandyCane
-
-Name: Disco Brawl
-Description: Ready for a ballroom blitz.
-ID: Pickaxe_ID_016_Disco
-
-Name: Chomp Jr.
-Description: They're going to need a bigger fort.
-ID: Pickaxe_ID_017_Shark
-
+ID: HalloweenScytheNigger
 Name: Bottom Feeder
 Description: From the murky depths!
 ID: Pickaxe_ID_018_Anchor
@@ -439,7 +392,8 @@ Description: Sharpened for battle.
 ID: Pickaxe_ID_112_GuanYu
 
 Name: Six String Striker
-Description: Now taking requests.
+Description: Now taking requests.
+
 Reactive: Glows in the dark
 ID: Pickaxe_ID_113_Muertos
 
@@ -448,7 +402,8 @@ Description: Corral the competition.
 ID: Pickaxe_ID_114_BadassCowboyCowSkull
 
 Name: Dark Shard
-Description: Splintered from geometric perfection.
+Description: Splintered from geometric perfection.
+
 Reactive: Transforms by dealing damage, or by outliving other players.
 ID: Pickaxe_ID_115_EvilCowboy
 
@@ -792,7 +747,7 @@ Name: Flint Striker
 Description: Bash with bluster.
 ID: Pickaxe_ID_201_Swashbuckler
 
-Name: Widow’s Bite
+Name: WidowÂ’s Bite
 Description: Shockingly effective.
 ID: Pickaxe_ID_202_AshtonBoardwalk
 
@@ -1464,7 +1419,7 @@ Name: Drip Axe
 Description: Careful, it's slurpery.
 ID: Pickaxe_ID_370_BlueFlames
 
-Name: Piña Clobbers
+Name: PiÃ±a Clobbers
 Description: The spiky bat with a pineapple punch.
 ID: Pickaxe_ID_371_PineappleBandit1H
 
@@ -2677,7 +2632,8 @@ Description: The pup has turned.
 ID: Pickaxe_ID_681_WerewolfFemale
 
 Name: Spacefarer Lightscythe
-Description: Taking back everything the darkness stole.
+Description: Taking back everything the darkness stole.
+
 Accessory styles will automatically match outfit style, and respond to built-in emote!
 ID: Pickaxe_ID_682_BistroAstronautFemale_A3MD2
 
@@ -2733,8 +2689,8 @@ Name: Giant Jelly Sourfish
 Description: Sweet, slurpy, and smashingly sticky.
 ID: Pickaxe_ID_695_SweetTeriyakiMale
 
-Name: Chipote Chillón
-Description: ¡Toing!
+Name: Chipote ChillÃ³n
+Description: Â¡Toing!
 ID: Pickaxe_ID_696_Grasshopper_Male_24OGH
 
 Name: Serrated Steelblades
